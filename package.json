@@ -9,7 +9,7 @@
         "@bugsnag/plugin-vue": "^7.18.0",
         "@tiptap/extension-link": "^2.0.0-beta.43",
         "@tiptap/extension-text-align": "^2.0.0-beta.31",
-        "@tiptap/starter-kit": "^2.0.0-beta.191",
+        "@tiptap/starter-kit": "^2.6.4",
         "@tiptap/vue-3": "^2.0.0-beta.96",
         "@vueform/slider": "^2.1.7",
         "@vuepic/vue-datepicker": "^7.4.0",
